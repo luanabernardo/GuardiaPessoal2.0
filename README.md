@@ -4,7 +4,8 @@ Este é um projeto em React Native que demonstra o conceito de componentização
 ## Sobre o objetivo do app
 Um Aplicativo móvel de segurança pessoal da mulher que tem como objetivo diminuir taxas de agressões contra as mulheres,fazendo com que elas se sintam seguras ao andar na rua com o app em execusão com o uso dos recursos disponíveis. o app tem como objetivo de ser de fácil usuabilidade permitindo que os usuários utilizem de forma segura.
 
-Componentização
+
+- Componentização
 O aplicativo está estruturado seguindo o princípio de componentização do React Native. Cada funcionalidade ou elemento da interface é encapsulado em um componente reutilizável. Isso facilita a manutenção e o desenvolvimento do aplicativo, além de torná-lo mais modular e escalável.
 
 Propriedades
